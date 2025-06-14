@@ -45,7 +45,7 @@ The most significant predictors of insurance fraud include:
 
 ## Technologies Used
 
-- Python 3.x
+- Python 3.11.5
 - Libraries:
   - pandas
   - numpy

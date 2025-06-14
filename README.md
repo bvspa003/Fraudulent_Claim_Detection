@@ -1,6 +1,6 @@
-# Insurance Fraud Detection
+# Fraudulent Claim Detection
 
-This repository contains a machine learning project focused on predicting insurance fraud using classification models.
+This repository contains a machine learning project focused on predicting fraudulent insurance claims using classification models.
 
 ## Project Overview
 
@@ -8,9 +8,11 @@ Insurance fraud is a significant concern for insurance companies, leading to bil
 
 ## Repository Contents
 
-- `Insurance_Fraud_Detection.ipynb`: Jupyter notebook containing the complete data analysis, preprocessing, model development, and evaluation
-- `Insurance_Fraud_Report.pdf`: Comprehensive technical report detailing the methodology and findings
-- `Insurance_Fraud_Presentation.pdf`: Executive presentation summarizing key insights and recommendations
+The repository includes a zip file `Fraudulent_Claim_Detection_Venkata_Sai_P_Bhamidipati.zip` containing:
+
+- `Fraudulent_Claim_Detection-Venkata_Sai_P_Bhamidipati.ipynb`: Jupyter notebook containing the complete data analysis, preprocessing, model development, and evaluation
+- `Fraudulent_Claim_Detection_Report-Venkata_Sai_P_Bhamidipati.pdf`: Comprehensive technical report detailing the methodology and findings
+- `Fraudulent_Claim_Detection_Presentation-Venkata_Sai_P_Bhamidipati.pdf`: Executive presentation summarizing key insights and recommendations
 
 ## Models Developed
 
@@ -56,7 +58,7 @@ The most significant predictors of insurance fraud include:
 
 1. Clone this repository
 2. Install required dependencies: `pip install -r requirements.txt`
-3. Open and run the Jupyter notebook: `jupyter notebook Insurance_Fraud_Detection.ipynb`
+3. Open and run the Jupyter notebook: `jupyter notebook Fraudulent_Claim_Detection.ipynb`
 
 ## Future Work
 
